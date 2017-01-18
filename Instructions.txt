@@ -1,0 +1,100 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: coordinatedfunding_2016_update.indd
+
+PACKAGE DATE: 12/16/16 12:55 AM
+Creation Date: 12/16/16
+Modification Date: 12/16/16
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :On Page2
+
+FONTS
+5 Fonts Used; 0 Missing, 1 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Garamond-Bold; Type: TrueType, Status: Embedded
+- Name: MinionPro-Regular; Type: OpenType Type 1, Status: OK
+- Name: Univers-Black; Type: OpenType Type 1, Status: OK
+- Name: Univers-CondensedBold; Type: OpenType Type 1, Status: OK
+- Name: Univers-Light; Type: OpenType Type 1, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 9 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 75.000; Lines/Inch: 70.000
+- Name and Type: Process Magenta; Angle: 15.000; Lines/Inch: 70.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 70.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE 174 CVU; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE 2945 C; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE 301 CVU; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE 3015 C; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE 583 CVU; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE 7737 C; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE Black C; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE Black C 1; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE Warm Gray 10 CVU; Angle: 45.000; Lines/Inch: 70.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 8 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 2 use RGB color space
+
+
+PRINT SETTINGS
+PPD: Xerox WorkCentre 7845, (192.168.249.78)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: Letter V:1
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0p0, 0p0, 0p0, 0p0
+Color: Composite CMYK
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Tabloid
+Paper Dimensions: 66p0 x 102p0
+Orientation: Landscape
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. coordinatedfunding_2016_update.indd; type: Adobe InDesign publication; size: 2544K
+2. coordinatedfunding_2016_update.pdf; type: Adobe Acrobat Document; size: 2994K
+3. MinionPro-Regular.otf; type: Font file; size: 213K
+4. Univers-Black.otf; type: Font file; size: 27K
+5. Univers-CondensedBold.otf; type: Font file; size: 23K
+6. Univers-Light.otf; type: Font file; size: 24K
